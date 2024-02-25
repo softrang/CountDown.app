@@ -84,7 +84,7 @@ padding: 0px;
     transform: rotateX(80deg);
     background-color: #16afc4;
     border: none;
-    margin-top: -5px;
+    margin-top: -7px;
     transform: skewX(30deg);
     border-radius: 0px;
     
@@ -92,11 +92,11 @@ padding: 0px;
 
 #in2{
     width: 5px;
-    height: 50px;
+    height: 49px;
     position: absolute;
     transform: rotateY(90deg);
     background-color: #057267;
-    margin-left: -2px;
+    margin-left: -4px;
     border: none;
     border-radius: 0px;
     transform: skewY(60deg);
@@ -117,7 +117,7 @@ padding: 0px;
 
 #in3{
    margin-top: 5px;
-   margin-left: 3px;
+   margin-left: 4px;
     width: 60px;
     height: 50px;
     position: absolute;
@@ -130,7 +130,7 @@ padding: 0px;
 
 #in33{
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 4px;
      width: 60px;
      height: 50px;
      position: absolute;
@@ -144,7 +144,7 @@ padding: 0px;
 
  #in333{
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 4px;
      width: 60px;
      height: 50px;
      position: absolute;
@@ -157,7 +157,7 @@ padding: 0px;
 
  #in3333{
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 4px;
      width: 60px;
      height: 50px;
      position: absolute;
