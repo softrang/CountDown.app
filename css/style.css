@@ -1,0 +1,170 @@
+body {
+  background-color: #32ccec;
+width: 100%;
+height: 100%;
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+
+
+   
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+
+.overlay {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    width: 90%;
+    height: 100%;
+    color: black;
+   
+    background: radial-gradient( 100px, #90f7ed69, #32ccec) ;
+
+}
+
+.title {
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+#container{
+    display:flex;
+    margin-left: 30%;
+    margin-right: auto;
+    
+}
+
+
+
+#day{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+#day1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+#day2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+#day3{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#in1{
+    width: 60px;
+    height: 10px;
+    position: absolute;
+    transform: rotateX(80deg);
+    background-color: #16afc4;
+    border: none;
+    margin-top: -5px;
+    transform: skewX(30deg);
+    border-radius: 0px;
+    
+}
+
+#in2{
+    width: 5px;
+    height: 50px;
+    position: absolute;
+    transform: rotateY(90deg);
+    background-color: #057267;
+    margin-left: -2px;
+    border: none;
+    border-radius: 0px;
+    transform: skewY(60deg);
+}
+
+#in4{
+    margin-top: 60px;
+    font-size: 20px;
+    margin-left: -20px;
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    text-align: center;
+    color: black;
+    
+}
+
+
+#in3{
+   margin-top: 5px;
+   margin-left: 3px;
+    width: 60px;
+    height: 50px;
+    position: absolute;
+    border: none;
+    background-color:white;
+    border-radius: 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+#in33{
+    margin-top: 5px;
+    margin-left: 3px;
+     width: 60px;
+     height: 50px;
+     position: absolute;
+     border: none;
+     background-color:white;
+     border-radius: 0;
+     font-size: 30px;
+     text-align: center;
+ }
+
+
+ #in333{
+    margin-top: 5px;
+    margin-left: 3px;
+     width: 60px;
+     height: 50px;
+     position: absolute;
+     border: none;
+     background-color:white;
+     border-radius: 0;
+     font-size: 30px;
+     text-align: center;
+ }
+
+ #in3333{
+    margin-top: 5px;
+    margin-left: 3px;
+     width: 60px;
+     height: 50px;
+     position: absolute;
+     border: none;
+     background-color:white;
+     border-radius: 0;
+     font-size: 30px;
+     text-align: center;
+ }
+
